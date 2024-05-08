@@ -9,7 +9,7 @@
 3. What is my Desktop Environment/Window Manager?
   - I use Hyprland.
 4. How did you install Arch Linux?
-  - I installed arch linux manually. But in my opinion, you can use the archinstall script, no worries!
+  - I installed arch linux manually. But in my opinion, you can use the archinstall script if you like it..
 5. Why did you make this account?
  - I made this account to provide cool scripts I made or I found from the deepest layers of the web. But if I find the user I can credit the user who made the script. Sometimes I make my own scripts or code like the fetcher script that's way faster then most. :)
 
@@ -19,16 +19,14 @@
 paru -S fetcher-based
 # For yay:
 yay -S fetcher-based
-# or
-yay fetcher-based
 ```
 
 ### Check out what I am currently working on!
 
-- [arch-based/fetcher-cpp](https://github.com/arch-based/fetcher-cpp)
-- [arch-based/based-dotfiles](https://github.com/arch-based/based-dotfiles)
-- [arch-based/arch-based](https://github.com/arch-based/arch-based)
-- [aur/fetcher-based](https://aur.archlinux.org/packages/fetcher-based)
+- [arch-based/fetcher-cpp](https://github.com/arch-based/fetcher-cpp) - A pretty bash system information tool re-written in pure C++
+- [arch-based/based-dotfiles](https://github.com/arch-based/based-dotfiles) - My Dotfiles
+- [arch-based/arch-based](https://github.com/arch-based/arch-based) - About me:
+- [aur/fetcher-based](https://aur.archlinux.org/packages/fetcher-based) - A pretty bash system information tool re-written in pure C++ that is packaged in a tarball that is extracted by a PKGBUILD.
 
 ### My Socials
 
