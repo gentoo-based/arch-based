@@ -26,7 +26,7 @@ yay -S fetcher-based
 - [arch-based/fetcher-cpp](https://github.com/arch-based/fetcher-cpp) - A pretty bash system information tool re-written in pure C++
 - [arch-based/based-dotfiles](https://github.com/arch-based/based-dotfiles) - My Dotfiles
 - [arch-based/arch-based](https://github.com/arch-based/arch-based) - About me:
-- [aur/fetcher-based](https://aur.archlinux.org/packages/fetcher-based) - A pretty bash system information tool re-written in pure C++ that is packaged in a tarball that is extracted by a PKGBUILD.
+- [aur/fetcher-based](https://aur.archlinux.org/packages/fetcher-based) - A pre-made binary of fetcher-cpp that is packaged in a tarball that is extracted by a PKGBUILD in the A.U.R.
 
 ### My Socials
 
