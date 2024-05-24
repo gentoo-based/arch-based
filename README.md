@@ -34,13 +34,20 @@ $ sudo make clean uninstall
 
 ### Check out what I am currently working on!
 
-- [arch-based/fetcher-cpp](https://github.com/arch-based/fetcher-rs) - A pretty C++ system information tool re-written in pure Rust.
-- [arch-based/based-dotfiles](https://github.com/arch-based/based-dotfiles) - My Dotfiles - Self explanatory
+- [arch-based/sgpasswd](https://github.com/arch-based/sgpasswd) - A Suckless Password Generator that is written in Pure rust and uses /dev/random when specified, but by default uses /dev/urandom.
+- [arch-based/sdisk](https://github.com/arch-based/sdisk) - Suckless Disk Usage Utility
 - [arch-based/arch-based](https://github.com/arch-based/arch-based) - About me
 - [arch-based/sfetch](https://github.com/arch-based/sfetch) - A suckless fetching utility way faster than most competitive neofetch alternative. Neofetch included.
+- [arch-based/s-sh](https://github.com/arch-based/s-sh) - A Suckless Shell that is used for Basic Use, written in Rust, for memory safety.
 
 ### My Socials
 
 - [My Reddit](https://reddit.com/u/anonyneon)
 - [Youtube](https://www.youtube.com/channel/UC7QPT9o1J674VAlAHlTCRlg)
+
+
+### The 4 Suckless Utilities:
 - [sfetch](https://github.com/arch-based/sfetch)
+- [sdisk](https://github.com/arch-based/sdisk)
+- [sgpasswd](https://github.com/arch-based/sgpasswd)
+- [s-sh](https://github.com/arch-based/s-sh)
