@@ -21,12 +21,6 @@
  - 💀 Rewrote a neofetch utlity in 3 different languages.
 
 </div>
-<br>
-<div align="left">
-  
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=arch-based&show_icons=true&theme=dark)
-
-</div>
 
 <div align="left">
 Additional Details about My Setup:
@@ -37,6 +31,8 @@ Additional Details about My Setup:
  - I use EFI Stub to boot Directly to the Kernel.
 
 </div>
+
+<br>
 
 <div align="center">
 
