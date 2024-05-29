@@ -14,6 +14,7 @@
 
 <div align="left">
 
+About Me:
  - 🦀 Rust lover
  - ℹ️ C lover
  - ℹ️ Wrote a discord bot, but quitted discord.
@@ -36,15 +37,9 @@ Additional Details about My Setup:
 
 <div align="center">
 
-<details>
-   <summary></summary>
-
-   <br>
-
-   *Tools I Use:*
-
-   <div align="center">
-
+  *Tools I Use:*
+  
+  
   ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
   ![Tails](https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white)
   ![Gentoo](https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white)
@@ -54,10 +49,6 @@ Additional Details about My Setup:
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-  
-   </div>
-
-  </details>
 
 </div>
 
