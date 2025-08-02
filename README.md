@@ -17,19 +17,18 @@
 About Me:
  - 🦀 Rust lover
  - ℹ️ C lover
- - ℹ️ Wrote a discord bot, but quitted discord.
- - 🐧 Average Arch Linux Enjoyer
- - 💀 Rewrote a neofetch utlity in 3 different languages.
+ - 🐧 Average Gentoo Linux Enjoyer
 
 </div>
 
 <div align="left">
 Additional Details about My Setup:
 
- - I use Hyprland
+ - I use niri
  - I use Unified Kernel Images
  - I use Secure Boot
- - I use EFI Stub to boot Directly to the Kernel.
+ - I use FDE
+ - I use Gentoo Linux with a Hardened Kernel and Toolchain.
 
 </div>
 
